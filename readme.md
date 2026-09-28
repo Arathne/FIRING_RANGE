@@ -8,7 +8,22 @@ Learn the entire dictionary in a game format.
 
 To memorize the english language, and possibly, other languages not possible with my keyboard.
 
+### GAME MODES
+
+* TRAINING
 * SEARCH AND DESTROY
-* MEMORIZATION
-* STRATEGY (CHESS)
-* NUMBERS
+* KILL CONFIRMED
+* ELIMINATION
+* ZOMBIES
+
+### STATS
+
+* SPEED
+* TIME
+* LUCK
+* SKILL
+* FATE
+
+### STRATEGY
+
+When a person comes up to me and challenges me with words, then decide on a counter from dictionary definitions, philosophy, or mythology.
