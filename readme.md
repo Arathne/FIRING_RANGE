@@ -8,7 +8,7 @@ Learn the entire dictionary in a game format.
 
 To memorize the english language, and possibly, other languages not possible with my keyboard.
 
-### GAME MODES
+## GAME MODES
 
 * TRAINING
 * SEARCH AND DESTROY
@@ -16,7 +16,7 @@ To memorize the english language, and possibly, other languages not possible wit
 * ELIMINATION
 * ZOMBIES
 
-### STATS
+## STATS
 
 * SPEED
 * TIME
@@ -24,6 +24,15 @@ To memorize the english language, and possibly, other languages not possible wit
 * SKILL
 * FATE
 
-### STRATEGY
+## STRATEGY
 
-When a person comes up to me and challenges me with words, then decide on a counter from dictionary definitions, philosophy, or mythology.
+* ALPHABET
+* WORD
+* DEFINITION
+* COMPOSITION
+
+### DICTIONARY
+
+* MERRIAM-WEBSTER'S COLLEGIATE DICTIONARY TWELFTH EDITION 
+* WEBSTER'S NEW WORLD COMPUTER DICTIONARY TENTH EDITION
+* OXFORD DICTIONARY OF COMPUTER SCIENCE
