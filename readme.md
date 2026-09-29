@@ -30,6 +30,7 @@ To memorize the english language, and possibly, other languages not possible wit
 * WORD
 * DEFINITION
 * COMPOSITION
+* A-Z SORTING
 
 ### DICTIONARY
 
